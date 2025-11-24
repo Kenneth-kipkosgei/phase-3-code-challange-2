@@ -2,6 +2,10 @@
 
 A Python implementation of a coffee shop domain model with Customer, Coffee, and Order classes.
 
+## About
+
+This project demonstrates object-oriented programming principles in Python by modeling a coffee shop's core business entities. It implements proper class relationships, data validation, and aggregate methods to manage customers, coffee types, and orders efficiently.
+
 ## Classes
 
 - **Customer**: Manages customer data and orders
@@ -33,3 +37,7 @@ print(coffee.average_price())
 ## Testing
 
 Run `python debug.py` to test all functionality.
+
+## Author
+
+Kenneth Kipkosgei
